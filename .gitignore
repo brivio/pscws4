@@ -1,0 +1,21 @@
+.*
+!.gitignore
+!.htaccess
+Thumbs.db
+node_modules
+*- Copy.html
+复件*
+/docs
+/misc
+/release
+/data/runtime
+/data/upload
+/data/config/db.php
+/testApi.config.php
+/static/build/*
+/data/config/url.php
+/tools/sdk
+/test.*
+dict.utf8.xdb
+data/font
+tools/task/vendor

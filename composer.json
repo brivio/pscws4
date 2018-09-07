@@ -1,0 +1,17 @@
+{
+    "name": "brivio/pscws4",
+    "authors": [
+        {
+            "name": "Brivio Wang",
+            "email": "brivio@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "brivio\\pscws4\\": "src/"
+        }
+    }
+}
